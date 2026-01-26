@@ -62,3 +62,17 @@ A randomizer mod for **Clair Obscur: Expedition 33** that lets you fully customi
 ## ⚠️ Disclaimer
 
 This is a **fan-made mod** and is not affiliated with or endorsed by the game developers.
+
+### Keywords 
+- clair-obscur-expedition-33
+- expedition33
+- randomizer
+- enemy-randomizer
+- encounter-randomizer
+- game-mod
+- game-modding
+- unreal-engine
+- pak-mod
+- dotnet
+- windows
+- modding-tool
